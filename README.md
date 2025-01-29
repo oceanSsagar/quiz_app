@@ -3,7 +3,7 @@ A new Flutter project.
 Making a simple Quiz App with options and a result screen.
 
 
-#images
+# images
 
 ![image](https://github.com/user-attachments/assets/7e0c44df-5144-4382-af64-80f56d9f4517)
 
