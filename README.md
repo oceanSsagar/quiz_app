@@ -1,6 +1,8 @@
-# quiz_app
+![image](https://github.com/user-attachments/assets/7e0c44df-5144-4382-af64-80f56d9f4517)# quiz_app
 
 A new Flutter project.
+Making a simple Quiz App with options and a result screen.
+
 
 ## Getting Started
 
